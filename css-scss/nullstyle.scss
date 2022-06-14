@@ -1,0 +1,13 @@
+/*zeroing out styles*/
+*{padding: 0;margin: 0;border: 0;}
+nav,header,aside{display: block;}
+html,body{height: 100%;width: 100%;font-size: 100%;font-size: 14px;line-height: 1;}
+input,button,textarea{font-family: inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+li,ul{list-style: none;}
+a, a:visited{text-decoration: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+
+/*----------------------------------------*/
